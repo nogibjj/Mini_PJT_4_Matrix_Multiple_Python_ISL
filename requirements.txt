@@ -17,5 +17,5 @@ uvicorn==0.18.3
 
 #analytics&visualization
 pandas
-matplotlib>=3.7.1
+matplotlib
 polars
