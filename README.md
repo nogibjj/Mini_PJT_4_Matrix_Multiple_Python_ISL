@@ -7,6 +7,11 @@
 [![Lint](https://github.com/nogibjj/INDV_PJT_1_Continuous-Integration/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/INDV_PJT_1_Continuous-Integration/actions/workflows/lint.yml)
 [![Test](https://github.com/nogibjj/INDV_PJT_1_Continuous-Integration/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/INDV_PJT_1_Continuous-Integration/actions/workflows/test.yml)
 ------
+### Updated ###
+The structure of this project is same as the first individual project.
+The only change is python stallation is varied as follows
+python-version: [3.7, 3.8, 3.9, 3.11]
+
 ### Requirements
 The project structure must include the following files:
 
