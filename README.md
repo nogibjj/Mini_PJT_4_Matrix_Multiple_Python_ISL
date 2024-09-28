@@ -1,15 +1,15 @@
 # IDS-706 Data Engineering Assignment
-## Individual Project : Continuous Integration using Gitlab Actions of Python Data Science Project
+## Project 4 : Gitlab/Github Actions Matrix Build for Multiple Python Versions
 
-#### Status(CI/CD) badge
-[![Format](https://github.com/nogibjj/INDV_PJT_1_Continuous-Integration/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/INDV_PJT_1_Continuous-Integration/actions/workflows/format.yml)
-[![Install](https://github.com/nogibjj/INDV_PJT_1_Continuous-Integration/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/INDV_PJT_1_Continuous-Integration/actions/workflows/install.yml)
-[![Lint](https://github.com/nogibjj/INDV_PJT_1_Continuous-Integration/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/INDV_PJT_1_Continuous-Integration/actions/workflows/lint.yml)
-[![Test](https://github.com/nogibjj/INDV_PJT_1_Continuous-Integration/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/INDV_PJT_1_Continuous-Integration/actions/workflows/test.yml)
+#### Status(CI/CD) badge for building multiple python versions
+[![CICD](https://github.com/nogibjj/Mini_PJT_4_Matrix_Multiple_Python_ISL/actions/workflows/CICD.yml/badge.svg)](https://github.com/nogibjj/Mini_PJT_4_Matrix_Multiple_Python_ISL/actions/workflows/CICD.yml)
+[![CICD](https://github.com/nogibjj/Mini_PJT_4_Matrix_Multiple_Python_ISL/actions/workflows/CICD.yml/badge.svg)](https://github.com/nogibjj/Mini_PJT_4_Matrix_Multiple_Python_ISL/actions/workflows/CICD.yml)
+[![CICD](https://github.com/nogibjj/Mini_PJT_4_Matrix_Multiple_Python_ISL/actions/workflows/CICD.yml/badge.svg)](https://github.com/nogibjj/Mini_PJT_4_Matrix_Multiple_Python_ISL/actions/workflows/CICD.yml)
+[![CICD](https://github.com/nogibjj/Mini_PJT_4_Matrix_Multiple_Python_ISL/actions/workflows/CICD.yml/badge.svg)](https://github.com/nogibjj/Mini_PJT_4_Matrix_Multiple_Python_ISL/actions/workflows/CICD.yml)
+
 ------
 ### Updated ###
-The structure of this project is same as the first individual project.
-The only change is python stallation is varied as follows
+The structure of this project is same as the first individual project. The only change is python stallation is varied as follows
 python-version: [3.7, 3.8, 3.9, 3.11]
 
 ### Requirements
